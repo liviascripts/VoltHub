@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/liviascripts/VoltHub/main/Early%20Access%20GUI"))()
